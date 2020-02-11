@@ -197,7 +197,7 @@ Use the **ShowNavBar** UII option if you want to show the nav bar for all the en
 
 7. Type **ShowNavBar** for the **Name** field.
 
-8. Type **True** for the **Value** field.
+8. Type **False** for the **Value** field.
 
 9. Select **Save**.
 
